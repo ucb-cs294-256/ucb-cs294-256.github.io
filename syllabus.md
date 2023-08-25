@@ -11,7 +11,7 @@ title:  Syllabus
 - For each **required** reading, you are required to provide a short review. 
 - Review questions will be posted and submitted via Google Forms (details TBD).
 
-## Reading Discussion Lead (Graduate Students)##
+## Reading Discussion Lead (Graduate Students) ##
 - Each graduate-level student will present and lead a short discussion on one of the assigned papers. 
 - (Schedule TBD) We will post instructions for submitting your presentation preferences. 
 
