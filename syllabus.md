@@ -15,11 +15,18 @@ title:  Syllabus
 - Each graduate-level student will present and lead a short discussion on one of the assigned papers. 
 - (Schedule TBD) We will post instructions for submitting your presentation preferences. 
 
+## Reading Discussion Report (Undergraduate Students) ##
+- All undergraduate-level students are required to write a report after each guest speaker, summarizing the speaker's presentation and the following discussion about the presented papers. 
+- More details on the format of the report TBD.
+
 ## Grading ##
 
-| Reading Reviews    | TBD |
-| Reading Discussion Lead (Grad-only)  | TBD  |
-| Project         | TBD |
+| Project         | 65% |
+| Reading Reviews    | 15% |
+| Reading Discussion Lead (Grad-only)  | 10%  |
+| Reading Discussion Report (UGrad-only)  | 10%  |
+| Participation   | 10%  |
+
 
 ## Resources: Hardware Design ##
 - [RISC-V Green Card](./files/verilog/riscvcard.pdf)
