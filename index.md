@@ -8,7 +8,7 @@ title:  Calendar
 
  | Content       | Days      | Times               | Location     | Staff           |
  | ---           | ---       | ---                 | ---          | ---             |
- | Lectures      | Fridays   | 9:00 am - 12:00 pm  | Soda 320     | John Wawrzynek  |
+ | Lectures      | Fridays   | 9:00 am - 12:00 pm  | Hearst Mining 310     | John Wawrzynek  |
  | Office Hours  | Fridays   | 12:30 pm - 1:30 pm  | Soda 631     | John Wawrzynek  |
 
 ## Course Outline
