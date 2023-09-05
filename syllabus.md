@@ -28,14 +28,6 @@ title:  Syllabus
 | Participation   | 10%  |
 
 
-## Resources: Hardware Design ##
-- [RISC-V Green Card](./files/verilog/riscvcard.pdf)
-- [61C Reference](./files/verhilog/reference-card.pdf)
-- [IEEE 1364-2005 Verilog-Standard](./files/verilog/verilog-std-1364-2005.pdf)
-- [EECS151 Register Library](./files/lib/EECS151.v)
-- [Online Verilog Simulator (edaplayground)](https://www.edaplayground.com/)
-- [LTspice Tutorial](./files/spice_tutorial.pdf)
-
 <!-- ## Cheating Policy ##
 
 * If you turn in someone else's work as if it were your own, you are guilty of cheating.  This includes problem sets, answers on exams, lab exercise checks, project design, and any required course turn-in material.

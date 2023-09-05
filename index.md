@@ -12,7 +12,8 @@ title:  Calendar
  | Office Hours  | Fridays   | 12:30 pm - 1:30 pm  | Soda 631     | John Wawrzynek  |
 
 ## Course Outline
-All schedule and reading assigments are subject to change.
+All schedule and reading assigments are subject to change. <br/>
+Refer to [Ed](https://edstem.org/us/courses/45441/discussion/) for questions and discussions.
 
  | Date | Lecture Topic | Assigned Reading |
  | ---  | ---  | ---           | ---              |
